@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/miportafolioSD/static/css/main.b4bb990c.css",
-    "main.js": "/miportafolioSD/static/js/main.acc32eb2.js",
+    "main.css": "/miportafolioSD/static/css/main.33a8c895.css",
+    "main.js": "/miportafolioSD/static/js/main.ff738eb8.js",
     "static/media/global-details.jpg": "/miportafolioSD/static/media/global-details.ee7f4669b9a89c81a9fd.jpg",
     "static/media/study-details.jpg": "/miportafolioSD/static/media/study-details.c51868156d703e151fda.jpg",
     "static/media/SL_122319_26350_17.jpg": "/miportafolioSD/static/media/SL_122319_26350_17.56a70fae86764c042ceb.jpg",
@@ -12,18 +12,20 @@
     "static/media/sergio-arboleda-university.png": "/miportafolioSD/static/media/sergio-arboleda-university.15497b47ca36cbe219b6.png",
     "static/media/team.svg": "/miportafolioSD/static/media/team.c5d7fbb81c55ba2b0613b89e2b523774.svg",
     "static/media/java.png": "/miportafolioSD/static/media/java.6ec13b0c11a8ff2e10b4.png",
+    "static/media/react.png": "/miportafolioSD/static/media/react.7d36079a051015cd9ca8.png",
     "static/media/conversation.svg": "/miportafolioSD/static/media/conversation.1693820b8a7bf3094cdb7fff9b95217b.svg",
     "static/media/kuepa.png": "/miportafolioSD/static/media/kuepa.9c3697785e53e9ee964d.png",
+    "static/media/boostrap.png": "/miportafolioSD/static/media/boostrap.ea4be04247fe2f3b97f2.png",
     "static/media/javascript.png": "/miportafolioSD/static/media/javascript.598438f01526ec7e82d7.png",
     "static/media/py.png": "/miportafolioSD/static/media/py.cd43cce14894f14df0d3.png",
     "static/media/test1.png": "/miportafolioSD/static/media/test1.a073a372d396f8bd3616.png",
     "index.html": "/miportafolioSD/index.html",
     "static/media/logoSD.svg": "/miportafolioSD/static/media/logoSD.f3ad3ee32b9013cc16653a3b87ede536.svg",
-    "main.b4bb990c.css.map": "/miportafolioSD/static/css/main.b4bb990c.css.map",
-    "main.acc32eb2.js.map": "/miportafolioSD/static/js/main.acc32eb2.js.map"
+    "main.33a8c895.css.map": "/miportafolioSD/static/css/main.33a8c895.css.map",
+    "main.ff738eb8.js.map": "/miportafolioSD/static/js/main.ff738eb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4bb990c.css",
-    "static/js/main.acc32eb2.js"
+    "static/css/main.33a8c895.css",
+    "static/js/main.ff738eb8.js"
   ]
 }
