@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/miportafolioSD/static/css/main.33a8c895.css",
-    "main.js": "/miportafolioSD/static/js/main.5517cfc6.js",
+    "main.css": "/miportafolioSD/static/css/main.5960e74a.css",
+    "main.js": "/miportafolioSD/static/js/main.c93f0597.js",
     "static/media/global-details.jpg": "/miportafolioSD/static/media/global-details.ee7f4669b9a89c81a9fd.jpg",
+    "static/media/forja.gif": "/miportafolioSD/static/media/forja.c6cae8b4b8d6f03d533b.gif",
+    "static/media/virtuosa.gif": "/miportafolioSD/static/media/virtuosa.853db8b09e6afc73a9ae.gif",
+    "static/media/frida.gif": "/miportafolioSD/static/media/frida.3ef6d04fd04ef88c0e5b.gif",
+    "static/media/bootstrap.gif": "/miportafolioSD/static/media/bootstrap.90322021d9945875355c.gif",
     "static/media/study-details.jpg": "/miportafolioSD/static/media/study-details.c51868156d703e151fda.jpg",
+    "static/media/animalandia.gif": "/miportafolioSD/static/media/animalandia.c8ad680852460a9052b5.gif",
     "static/media/SL_122319_26350_17.jpg": "/miportafolioSD/static/media/SL_122319_26350_17.56a70fae86764c042ceb.jpg",
     "static/media/bg1.jpg": "/miportafolioSD/static/media/bg1.4ceabac2138a444a7193.jpg",
     "static/media/fondoHome.JPG": "/miportafolioSD/static/media/fondoHome.0d3edbc5e04e2ec88bc8.JPG",
@@ -19,13 +24,17 @@
     "static/media/javascript.png": "/miportafolioSD/static/media/javascript.598438f01526ec7e82d7.png",
     "static/media/py.png": "/miportafolioSD/static/media/py.cd43cce14894f14df0d3.png",
     "static/media/test1.png": "/miportafolioSD/static/media/test1.a073a372d396f8bd3616.png",
+    "static/media/slick.svg": "/miportafolioSD/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/miportafolioSD/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/miportafolioSD/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/miportafolioSD/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/miportafolioSD/index.html",
     "static/media/logoSD.svg": "/miportafolioSD/static/media/logoSD.f3ad3ee32b9013cc16653a3b87ede536.svg",
-    "main.33a8c895.css.map": "/miportafolioSD/static/css/main.33a8c895.css.map",
-    "main.5517cfc6.js.map": "/miportafolioSD/static/js/main.5517cfc6.js.map"
+    "main.5960e74a.css.map": "/miportafolioSD/static/css/main.5960e74a.css.map",
+    "main.c93f0597.js.map": "/miportafolioSD/static/js/main.c93f0597.js.map"
   },
   "entrypoints": [
-    "static/css/main.33a8c895.css",
-    "static/js/main.5517cfc6.js"
+    "static/css/main.5960e74a.css",
+    "static/js/main.c93f0597.js"
   ]
 }
