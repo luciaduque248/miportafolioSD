@@ -1,0 +1,158 @@
+.section {
+    overflow-x: hidden;
+    background-image: url(../assets/img/fondoHome.JPG);
+    background-size: 100%;
+    height: 90vh;
+    animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@keyframes scale-up-center {
+    0% {
+        transform: scale(0.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.text1 {
+    text-align: center;
+    width: 550px;
+}
+
+
+.text1 h1 {
+    animation: heartbeat 1.5s ease-in-out infinite both;
+    color: white;
+    -webkit-text-stroke: 2px black;
+    position: relative;
+    left: 2rem;
+    font-size: 70px;
+    text-shadow: -4px 3px 0 #032a85, -10px 7px 0 #391172;
+}
+
+.text1 h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    
+}
+
+.text2 {
+    width: 540px;
+    text-align: center;
+}
+
+.text2 h1 {
+    animation: heartbeat 1.5s ease-in-out infinite both;
+    color: rgb(192, 248, 245);
+    -webkit-text-stroke: 2px black;
+    text-shadow: -4px 3px 0 #025838, -10px 7px 0 #116c72;
+    position: relative;
+    top: 0.8rem;
+    right: 4rem;
+    font-size: 70px;
+}
+
+.text2 h2 {
+    font-size: 28px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 5.5rem;
+    padding-right: 1rem;
+}
+
+
+@keyframes heartbeat {
+    from {
+        transform: scale(1);
+        transform-origin: center center;
+        animation-timing-function: ease-out;
+    }
+
+    10% {
+        transform: scale(0.91);
+        animation-timing-function: ease-in;
+    }
+
+    17% {
+        transform: scale(0.98);
+        animation-timing-function: ease-out;
+    }
+
+    33% {
+        transform: scale(0.87);
+        animation-timing-function: ease-in;
+    }
+
+    45% {
+        transform: scale(1);
+        animation-timing-function: ease-out;
+    }
+}
+
+.text1 h2{
+    margin-left: 7rem;
+    overflow: hidden;
+    border-right: .15em solid orange;
+    white-space: nowrap; 
+    width: 0;
+    animation: 
+      typingLine1 1s steps(25, end) forwards;
+}
+
+.text2 h2 {
+    overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+}
+
+.text1 h2,.text2 h2{
+    margin-top: -1.3rem;
+}
+
+.text2 .line2{
+    overflow: hidden;
+      border-right: none;
+      white-space: nowrap; 
+      width: 0;
+      animation: 
+        typing 1s steps(25, end) forwards;
+      animation-delay: 1s;
+}
+
+.text2 .line3{
+    overflow: hidden;
+    border-right: .15em solid orange; 
+    white-space: nowrap; 
+    width: 0;
+    animation: 
+      typing 1s steps(25, end) forwards;
+    animation-delay: 2s;
+}
+
+@keyframes typingLine1 {
+    from { width: 0 }
+    to { width: 65% }
+  }
+  @keyframes blink {
+    from { border-color: transparent }
+    to { border-color: orange; }
+  }
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 70% }
+  }
+  @keyframes blink {
+    from { border-color: transparent }
+    to { border-color: orange; }
+  }
+

@@ -1,0 +1,57 @@
+.slide{
+    width: 80vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.images-carousel img{
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.revelador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -1rem;
+    display: flex;
+}
+
+.revelador p{
+    width: 8vw;
+}
+
+.revelador img{
+    width: 10%;
+    border: none;
+}
+
+.apps-projects{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    margin-left: 1rem;
+}
+
+.apps-projects img{
+    width: 28%;
+    height: 10vh;
+}
+
+.virtuosa .revelador .apps-projects img{
+    margin-top: 0.5rem;
+}
+
+.bootstrap img{
+    margin-top: 1rem;
+    width: 5vw;
+    height: 8vh;
+}
+
+.animaladiaHTML .revelador .apps-projects img{
+    margin-top: 0.5rem;
+}

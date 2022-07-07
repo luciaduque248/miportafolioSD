@@ -1,0 +1,323 @@
+.content{
+    background-image: url(../assets/img/SL_122319_26350_17.jpg);
+    background-size: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.content h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+/* ::::::::::::::::::::::: JOBS ::::::::::::::::::::::: */
+.jobs{
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.jobs-content{
+    display: flex;
+}
+
+
+.jobs-empresa{
+    background-color: rgba(255, 255, 255, 0.298);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.kuepa{
+    width: 30%;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+.jobs-tiempo{
+    backdrop-filter: blur(10px);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jobs-btn{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ::::::::::::::::::::::: ESTUDIOS ::::::::::::::::::::::: */
+.studies{
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.studies-content{
+    display: flex;
+}
+
+
+.studies-empresa{
+    background-color: rgba(255, 255, 255, 0.298);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.usa{
+    width: 30%;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+
+.studies-tiempo{
+    backdrop-filter: blur(10px);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.studies-btn{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ver-mas{
+    text-decoration: none;
+    color: inherit;
+}
+
+.ver-mas:hover{
+    color: aqua;
+    font-weight: bolder;
+}
+
+
+/* ::::::::::::::::::::::: SKILLS ::::::::::::::::::::::: */
+.contenido-other{
+    background-image: url(../assets/img/bg1.jpg);
+    background-size: 100%;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.contenido-other h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.titulo h1{
+    font-size: 30px;
+}
+
+.habilidades{
+    display: flex;
+}
+
+.points{
+    display: flex;
+}
+
+.fortalezas{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin: 0 1rem;
+    max-width: 500px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.097);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.fortalezas img{
+    width: 80%;
+}
+
+.idiomas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 1rem;
+    max-width: 900px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.097);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.idiomas img{
+    margin:1rem 0;
+    width: 80%;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.info p{
+    display: flex;
+    justify-content: center;
+}
+
+.info img{
+    margin: 0 1rem;
+}
+
+.info .english{
+    margin-left: 2rem;
+}
+
+.aplicaciones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 1rem;
+    max-width: 900px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.097);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+.design{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.apps-design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.design{
+    margin-top: -1rem;
+}
+
+.design img{
+    width: 25%;
+}
+.info-pg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.apps-pg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-pg img{
+    width: 23%;
+}
+
+h3{
+    font-size: 20px;
+}
+
+.app-pg-line1{
+    display: flex;
+    justify-content: center;
+}
+
+.app-pg-line2{
+    margin-top: 1rem;
+    object-fit: cover;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.app-pg-line3{
+    display: flex;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+/* ::::::::::::::::::::::: ABOUT ME ::::::::::::::::::::::: */
+.contenido-other-about{
+    background-image: url(../assets/img/bg1.jpg);
+    background-size: 100%;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.contenido-other-about h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.contenido-other-about p{
+    text-align: justify;
+}
+
+.contenido-about{
+    padding: 1rem 2rem;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, .05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenido-about img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.summary{
+    display: flex;
+    flex-direction: column;
+}
+.summary p{
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+.summary h1{
+    font-size: 5vh;
+}
