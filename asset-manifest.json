@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/miportafolioSD/static/css/main.08b055d0.css",
-    "main.js": "/miportafolioSD/static/js/main.be2e163a.js",
-    "static/media/global-details.jpg": "/miportafolioSD/static/media/global-details.ee7f4669b9a89c81a9fd.jpg",
+    "main.css": "/miportafolioSD/static/css/main.f6a66bd1.css",
+    "main.js": "/miportafolioSD/static/js/main.97d54e6a.js",
     "static/media/forja.gif": "/miportafolioSD/static/media/forja.c6cae8b4b8d6f03d533b.gif",
     "static/media/virtuosa.gif": "/miportafolioSD/static/media/virtuosa.853db8b09e6afc73a9ae.gif",
     "static/media/frida.gif": "/miportafolioSD/static/media/frida.3ef6d04fd04ef88c0e5b.gif",
     "static/media/bootstrap.gif": "/miportafolioSD/static/media/bootstrap.90322021d9945875355c.gif",
-    "static/media/study-details.jpg": "/miportafolioSD/static/media/study-details.c51868156d703e151fda.jpg",
     "static/media/animalandia.gif": "/miportafolioSD/static/media/animalandia.c8ad680852460a9052b5.gif",
-    "static/media/SL_122319_26350_17.jpg": "/miportafolioSD/static/media/SL_122319_26350_17.56a70fae86764c042ceb.jpg",
-    "static/media/bg1.jpg": "/miportafolioSD/static/media/bg1.4ceabac2138a444a7193.jpg",
+    "static/media/global-details.jpg": "/miportafolioSD/static/media/global-details.7833af25ed3c629c1f5a.jpg",
+    "static/media/SL_122319_26350_17.jpg": "/miportafolioSD/static/media/SL_122319_26350_17.8fafb50544870211485a.jpg",
     "static/media/fondoHome.JPG": "/miportafolioSD/static/media/fondoHome.0d3edbc5e04e2ec88bc8.JPG",
+    "static/media/study-details.jpg": "/miportafolioSD/static/media/study-details.6a3f52cd46df597d910c.jpg",
+    "static/media/bg1.jpg": "/miportafolioSD/static/media/bg1.0f88005f43d95f0c3096.jpg",
     "static/media/celular.jpg": "/miportafolioSD/static/media/celular.56cda234b0bcc902792d.jpg",
     "static/media/figma.png": "/miportafolioSD/static/media/figma.daa0e1a9ba1e0b0d6ed1.png",
     "static/media/dibujo.gif": "/miportafolioSD/static/media/dibujo.32c0ce3228915d86026e.gif",
@@ -31,11 +31,11 @@
     "static/media/slick.woff": "/miportafolioSD/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/miportafolioSD/index.html",
     "static/media/logoSD.svg": "/miportafolioSD/static/media/logoSD.f3ad3ee32b9013cc16653a3b87ede536.svg",
-    "main.08b055d0.css.map": "/miportafolioSD/static/css/main.08b055d0.css.map",
-    "main.be2e163a.js.map": "/miportafolioSD/static/js/main.be2e163a.js.map"
+    "main.f6a66bd1.css.map": "/miportafolioSD/static/css/main.f6a66bd1.css.map",
+    "main.97d54e6a.js.map": "/miportafolioSD/static/js/main.97d54e6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.08b055d0.css",
-    "static/js/main.be2e163a.js"
+    "static/css/main.f6a66bd1.css",
+    "static/js/main.97d54e6a.js"
   ]
 }
